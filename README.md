@@ -15,4 +15,3 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Le4ty&theme=radical&show_icons=true" alt="Le4ty"</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=le4ty&" alt="le4ty" /></p>
