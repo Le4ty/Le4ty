@@ -17,6 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=le4ty&show_icons=true&locale=en&layout=compact" alt="le4ty" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=le4ty&show_icons=true&locale=en" alt="le4ty" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Le4ty&theme=radical &show_icons=true"</p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Le4ty&theme=radical&show_icons=true"</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=le4ty&" alt="le4ty" /></p>
