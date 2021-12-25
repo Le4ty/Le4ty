@@ -6,6 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/le4ty12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="le4ty12" height="30" width="40" /></a>
 <a href="https://instagram.com/le4tyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="le4tyx" height="30" width="40" /></a>
+  <a href="https://instagram.com/le4tyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/Social/discord.svg" alt="le4tyx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
